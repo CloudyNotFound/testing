@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="VJo8Fsd}O0=DDk1M(FMt">make a variable</variable></variables><block type="pxt-on-start" id="2`HZt?/k!BPk$WhQhs.^" x="0" y="0"/><block type="device_forever" id="n3UuE[J/vp2v^sUx}4p{" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="o5FN9+5wx15rBXoeew_a"><field name="LEDS">`
+        # # # # # 
+        . . . . # 
+        # # # # # 
+        # . . . . 
+        # # # # #
+        `</field><next><block type="device_print_message" id="`?H5lwQ7!zWb^296tcdW"><value name="text"><shadow type="text" id="WF~5})+%Q{R.-+vz]t!G"><field name="TEXT">Hello!</field></shadow></value></block></next></block></statement></block></xml>
